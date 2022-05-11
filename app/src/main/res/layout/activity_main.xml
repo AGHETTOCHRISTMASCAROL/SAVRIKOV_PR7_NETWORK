@@ -17,4 +17,10 @@
         android:layout_height="wrap_content"
         android:text="Switch1"/>
 
+    <TextClock
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:text="clock"/>
+
 </LinearLayout>
